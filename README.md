@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-
-**tp-27/tp-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building an application that helps you plan backcountry camping routes!
 - 🌱 I’m currently learning Java
 - 🎓 Computer Science student graduating in April 2024 
