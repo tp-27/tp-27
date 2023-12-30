@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building an application that helps you plan backcountry camping routes!
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Spring 
 - 🎓 Computer Science student graduating in April 2024 
 - 🥅 2024 goals: Learn about Machine Learning
 
