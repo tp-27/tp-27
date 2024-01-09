@@ -9,11 +9,11 @@
 <summary>  Tech Stack 📚 </summary>
 <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=javascript,python,java,react,express,nodejs,mongodb,c,php,html,css,mysql,postgres,mysql"/>
+            <img src="https://skillicons.dev/icons?i=javascript,python,java,react,express,nodejs,mongodb,c,php"/>
         </a>
         <br />
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=aws,gcp,figma,git,docker,postman,netlify,linux"/>
+            <img src="https://skillicons.dev/icons?i=html,css,mysql,postgres,mysql,aws,gcp,figma,git,docker,postman,netlify,linux"/>
         </a>
     </p>
 </details>
