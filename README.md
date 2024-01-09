@@ -2,18 +2,18 @@
 - 🔭 I’m currently working on building an application that helps you plan backcountry camping routes!
 - 🌱 I’m currently learning Java Spring 
 - 🎓 Computer Science student graduating in April 2024 
-- 🥅 2024 goals: Learn about Machine Learning
+- 🥅 2024 goals: Create a project incorporating Machine Learning
 
 
 <details open>
 <summary>  Tech Stack 📚 </summary>
 <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=javascript,python,java,react,express,nodejs,mongodb,c,php"/>
+            <img src="https://skillicons.dev/icons?i=javascript,python,java,react,express,nodejs,mongodb,c,php,html,css"/>
         </a>
         <br />
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,mysql,postgres,mysql,aws,gcp,figma,git,docker,postman,netlify,linux"/>
+            <img src="https://skillicons.dev/icons?i=mysql,postgres,mysql,aws,gcp,figma,git,docker,postman,netlify,linux"/>
         </a>
     </p>
 </details>
