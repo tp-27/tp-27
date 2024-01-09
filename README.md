@@ -9,7 +9,7 @@
 <summary>  Tech Stack 📚 </summary>
 <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=javascript,python,java,c,php,html,css,mysql,postgres,mysql"/>
+            <img src="https://skillicons.dev/icons?i=javascript,python,java,react,express,node,mongodb,c,php,html,css,mysql,postgres,mysql"/>
         </a>
         <br />
         <a href="https://skillicons.dev">
